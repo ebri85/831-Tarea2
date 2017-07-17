@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1500258987 source:/mnt/2f2dfa39-718c-473d-812f-c6849c15048a/GITRepos/831-Tarea2/BrizuelaRuizEsau-Tarea2/main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<time.h>
+
